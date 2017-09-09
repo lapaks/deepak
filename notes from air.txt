@@ -1,0 +1,374 @@
+notes
+
+https://login.microsoftonline.com/common/reprocess?ctx=rQIIAeNisFLLKCkpKLbS1y_OTM8rLdDLzUwuyi_OTyvRS87P1csvSs9MAbGKhLgE5rY5mdiveuW8KmmXwO42D-1VjMr4NEMFLzAyvmBk7GJiMTQwNp7EJJ6SmlqQm5iR6JCcmFtQWqxXllmql5pSuomJJdgxwPME04LzcreYBP2L0j1TwovdUlNSixJLMvPzHjHj0nmAZQPnBRaBVyw8BqxWHBxcAlwSrAoMP1gYF7ECHd2dsOKkSkKRy_SOnS_-zWBlOMWqn21U4GKa6O3vE2WclB7gXWDsZKEf6B5p6VaQn5flGJKTnxKeE6kdnu7jaGBrbmU4gU1oAhvTLs4VjET41r44uzTd1jWlNBnsarXgktSCYpfEkkQ919zEzBxbmB9UTQxQfaEG1GibamGUmGpmaaCbaJRiqmuSYm6ma5FibKBrnmyWamCYamZgZJSqVpBpa6KWimIaWogAAA2#
+
+Lapaks@19820901
+
+
+ok - Nexus 7, Nexus 9, Galaxy Tab 4
+not ok - Galaxy Tab 2
+
+
+4/24/2017
+2017
+Crescent Homes Launches Philanthropy Program: GIVE
+
+
+import pudb; pu.db;
+
+Misc
+
+Murali Krishna Reddy Kakuru 
+Prakash Boyappally, 
+Divya Naralasetty, 
+Gowtham Reddy Sudini 
+
+status
+1=under cons
+2=moveinready
+3=model home
+4=model home for sales
+5=under contract
+
+google map delay 
+
+javascript_delay
+__init__.py
+~/sites/oicms/oicms/website/base2/view/
+
+thutessn 756-10-2068
+
+
+location status
+
+2=coming soon
+
+
+
+2
+
+FLEX - FORMS DOES NOT MATCH THE DESIGN
+REG LANDING - FORMS DOES NOT MATCH THE DESIGN
+
+
+
+new crescent page
+flex
+crescenthomes:8000/lp/flex/
+
+koch
+mobile 46
+desktop 55
+
+location.dt_data.smart_touch_download_brochure_form_code|safe
+
+DT_Market.smart_touch_inventory_and_price_update_form_code|safe — DONE
+
+location.dt_data.smart_touch_form_code|safe  -req appt DONE FOR ONE LOCATION
+
+
+Needs to be updated on New Braunfels market page "Inventory and Price Updates,”  - DT
+
+footer "Promotions and Updates,” - DONE
+
+ About Us, DONE
+
+ Our Team and — OUR STORY
+
+ Awards DONE
+
+"Download Brochure,” - DONE 
+
+Photos 
+
+"Get Email Updates, - DONE
+
+" Realtors page form. - DASH BOARD PAGE
+
+Change The Reserve to the full name, and add The Grove
+
+<option title="The Reserve at Vintage Oaks" value="18942">The Reserve at Vintage Oaks</option>
+<option title="The Grove at Vintage Oaks" value="19322">The Grove at Vintage Oaks</option>
+
+
+
+
+
+
+
+Rushil Shakya
+7711 35th Ave., Apt. 6N
+Jackson heights, NY 11372
++12013441597
+
+
+3
+
+1609651595987244
+
+blank page at the end
+http://gemcraft.homefiniti.com/pdf/md/aberdeen/grays-run-overlook/859/
+
+4
+
+git commands
+
+git tag -a 1.0.6 -m "Added location status - location card, photos in move-in specs, community name in spec card"
+git push origin 1.1.9
+
+run lorien locally
+$ php -S 0.0.0.0:6000
+
+tag old commits 
+git tag -a 1.8.18 ae904c9 -m “adding vir”
+
+git push --tags origin master
+
+http://stackoverflow.com/questions/23908263/remove-or-edit-an-unpushed-git-tag
+
+git tag -d tag_name
+
+git push origin :refs/tags/tag_name
+http://homecreations:8000/new-homes/ok/oklahoma-city/crystal-hill-estates/548/9109-sw-48th-terrace/5309/
+
+
+bbe7562
+
+5
+
+
+issue with spec address
+http://gemcraft:8000/new-homes/md/parkton/calder-estates/854/600-calder-castle/6443/
+
+fox creek location pdf - font ???
+http://gemcraft.homefiniti.com/new-homes/md/kingsville/fox-creek-farms/1088/
+
+warranty to server in service request
+
+boyl button - match font
+
+
+Pending
+
+location_by_county - sort, incorrect hover display
+location list default display - price low-high
+location list - plan cards - sort price low-high
+
+masterplan-list - sort alphabetically
+        filter and pagination
+
+email template - recommended specs, community, more
+                changes made to favorites
+
+career_list - pagination/filter
+
+blog feed
+
+
+IFP save button when not logged in pops up different loging/register modal
+
+blog.itsjustabetterhouse.com login
+
+
+
+
+6
+
+https://www.youtube.com/watch?v=qT47KF5pvfw
+
+7
+
+migration
+
+comment
+makemigrations core
+migrate core —fake
+
+un comment 
+makemigrations core
+migrate core
+
+
+database: blogmount_blog
+
+user: blogmount_admin
+password: w]J+ZQrR5Mqo
+
+
+8
+
+ssh staging
+lapaks
+0mphalus
+
+/home/staging/oicms/themes/project_folder/project_folder
+
+cd ~          - go to home dir (/User/developer)
+
+ls -lah
+
+ls .ssh
+
+connect
+
+
+9
+
+GEMCRAFT BLOG
+
+ftp
+host: 208.79.233.134
+username: bloggemcrafthome
+password: gV{uaad6U[?e
+
+
+LOCAL WP
+localhost:8888/wp-admin
+admin
+iB6VbitY3SR8ad4Fwj
+
+
+
+LIVE
+
+DATABASE user
+user: bloggemc_admin
+password: ~?),0Bw^E7v~
+
+WP
+http://blog.gemcrafthomes.com/wp-admin/
+
+admin
+2ZCqDVgVCTJmf4s3w6
+
+
+
+
+koch blog
+Wp local
+
+user : admin
+
+Password: lL&RWfzX6uvfZIdgb)
+
+
+
+
+
+
+
+
+
+10
+
+Day Off
+July 18 2016 Monday
+Oct 10 2016 Monday
+Oct 31 2016 Monday
+Dec 12 2016 Monday
+Dec 30 2016 Friday
+
+Jan 30 2017 Monday
+Feb 23 2017 Thursday
+Feb 24 2017 Friday
+
+Tt@19820901
+
+Boa
+Citi
+Barklays
+
+rent
+rent ins
+bge
+yes energy
+
+comcast
+
+hyundai -25th
+
+amee
+viu-14860
+pp-
+
++3200
+-2000 amee
+-50 phone
+-312 gadi
+-65 entant 
+773
+
+ameekocard
+erenter 33
+gico 123
+
+
+3 * 1524
+
+fall16 3048
+
+spring17 
+grad- 3048
+ungrad-1176
+4224
+
+
+alina
+
+550 coll
+124 ins
+33.37 northwest
+50 bank transfer to chase
+=757.37
+
+
+11
+
+
+dummies
+
+
+Tracey's Crossing
+
+Rocks View Estates
+
+location detail
+move in ready hide if no specs
+
+
+
+features bottom bar
+
+
+1085
+39.36560418593555
+-76.47756278514862
+
+
+deepak@oneilinteractive.com
+0M….
+
+M625139005369
+
+chk outpout
+
+sudo stop oicms
+source oicms/bin/activate
+cd /var/www/oicms/
+python manage.py runserver 0.0.0.0:8000
+
+
+chk outpout
+
+sudo stop oicms
+source oicms/bin/activate
+cd /var/www/oicms/
+python manage.py runserver 0.0.0.0:8000
+
+Va@m2eq#3
+
+
+fonts
+Va@m2eq!
+
+
